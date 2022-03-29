@@ -1,7 +1,7 @@
 # Exercício realizado no curso discover da Rocketseat, segue abaixo o que foi pedido:
 
 
-
+<!--
 Exercício de apresentação
 
 
@@ -46,4 +46,5 @@ Para isso digite lorem e em seguida aperte tab.
 atenção: alguns computadores isso pode não funcionar, portanto, ão atenha a isso e continue o exercício sem essa dica.
 
 Bom exercício.
+-->
 
