@@ -1,2 +1,2 @@
-# Exercício realizado no curso discover da Rocketseat.
+Exercício realizado no curso discover da Rocketseat.
 
